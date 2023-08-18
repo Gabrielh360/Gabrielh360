@@ -12,22 +12,23 @@ Hello, my name is Gabriel Henrique, I'm 21 years old, I'm a novice DEV and I sta
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gabrielhenrique.h360@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabriel-henrique-1a5193213)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://docs.github.com/Gabrielh360)
-[![GitHub](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://docs.github.com/Gabrielh360)
+[![GitHub](https://img.shields.io/badge/Bielzinh360-000?style=for-the-badge&logo=instagram)](https://instagram.com/bielzinh360?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
 ### Habilidades 👨‍🎓
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-[![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
-[![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)](https://angular.io)
+[![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://docs.python.org/3/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/docs/home.html)
+[![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)](https://angular.io/docs)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05033)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://docs.github.com/)
 ![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android)
 
 
 ### GitHub Stats 📊
+<p align = "center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Gabrielh360&layout=compact&theme=tokyonight">   
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielh360&layout=compact&theme=tokyonight">
-
+</p>
 
