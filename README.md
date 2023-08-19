@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo(a)++ao+meu+perfil+%F0%9F%98%8E%F0%9F%A4%8F;Hello%2C+welcome+to+my+profile+%F0%9F%98%8E%F0%9F%A4%8F)](https://git.io/typing-svg)
 
+<p align = "center">
+  <img height="300px" src="https://i.imgur.com/yfxurw6.png">
+</p>
 
 ## Resumo Sobre Mim (PT-BR) 
-Olá, meu nome é Gabriel Henrique, Tenho 21 Anos de Idade, sou um DEV novato e comecei a estudar Linguagens de programação na DIO, sempre tive interesse em aprender sobre as Linguagens de Programação, Tecnologias e tudo que envolve a área de TI, nas horas vagas eu gosto de assistir animes, também sou Designer, Editor e Youtuber, procuro me dedicar 110% em tudo que eu faço.
+Olá, meu nome é  Gabriel Henrique, Tenho 21 Anos de Idade, sou um DEV novato e comecei a estudar Linguagens de programação na DIO, sempre tive interesse em aprender sobre as Linguagens de Programação, Tecnologias e tudo que envolve a área de TI, nas horas vagas eu gosto de assistir animes, também sou Designer, Editor e Youtuber, procuro me dedicar 110% em tudo que eu faço.
 
 ## Summary About Me (EN-US) 
 Hello, my name is Gabriel Henrique, I'm 21 years old, I'm a novice DEV and I started studying programming languages ​​at DIO, I've always been interested in learning about programming languages, technologies and everything that involves the IT area, in my spare time I like watching anime, I'm also a Designer, Editor and Youtuber, I try to dedicate myself 110% in everything I do.
@@ -28,7 +31,7 @@ Hello, my name is Gabriel Henrique, I'm 21 years old, I'm a novice DEV and I sta
 
 ### GitHub Stats 📊
 <p align = "center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Gabrielh360&layout=compact&theme=tokyonight">   
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielh360&layout=compact&theme=tokyonight">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Gabrielh360&layout=compact&theme=tokyonight">   
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielh360&layout=compact&theme=tokyonight">
 </p>
 
